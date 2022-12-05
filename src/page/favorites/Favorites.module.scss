@@ -1,0 +1,23 @@
+.container {
+    padding-bottom: 30px;
+    
+ 
+     .searchContainer {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         margin-bottom: 40px;
+         border-bottom: 1px solid #eaeaea;
+ 
+     }
+ 
+     
+ 
+     .productContant {
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-around;
+         align-items: center;
+         gap: 25px 15px;
+     }
+ }
